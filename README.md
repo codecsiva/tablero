@@ -1,2 +1,3 @@
 # tablero
-A simple python data aggregator. Uses Mongo DB for data storage
+A simple python data aggregator. Uses MongoDB for data storagei
+
